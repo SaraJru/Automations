@@ -1,0 +1,21 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "readPdfOCR",
+      "DisplayName": "readPdfOCR",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\Carlos Ramírez\\Downloads\\Demo - Sample PDF Files\\Demo - Sample PDF Files\\Text and Image PDF.pdf",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

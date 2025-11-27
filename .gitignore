@@ -1,0 +1,16 @@
+.local/
+.objects/
+.project/
+.screenshots/
+.settings/
+.storage/
+.tmh/
+*.tmp
+*.pdf
+*.bak
+*.cache
+*.dll
+*.db
+*.user
+*.suo
+Thumbs.db
